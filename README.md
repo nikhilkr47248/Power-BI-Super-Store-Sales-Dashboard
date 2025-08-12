@@ -11,6 +11,7 @@ This Power BI project demonstrates:<br>
 - `SuperStore_Sales.pbix`: Power BI report  <br>
 - `SalesData.csv`: Original data  <br>
 - `README.md`: This documentation  <br>
+- Screenshots
 
 ## Usage <br>
 1. Open `SuperStore_Sales.pbix` in Power BI Desktop.  <br>
